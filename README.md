@@ -63,6 +63,46 @@ class AbderrahimBoussyf:
 
 ---
 
+## 📊 Impact in Numbers
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-accuracy-achievements-flaticons-flat-flat-icons.png" alt="accuracy"/>
+<br/>
+<strong>90.4%</strong>
+<br/>
+<sub>AI Platform Accuracy</sub>
+</td>
+<td align="center" width="25%">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-cost-reduction-flaticons-flat-flat-icons.png" alt="cost"/>
+<br/>
+<strong>-60%</strong>
+<br/>
+<sub>Customer Acquisition Cost</sub>
+</td>
+<td align="center" width="25%">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-target-flaticons-flat-flat-icons.png" alt="leads"/>
+<br/>
+<strong>+50%</strong>
+<br/>
+<strong></strong>
+<sub>Lead Qualification Rate</sub>
+</td>
+<td align="center" width="25%">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-conversion-flaticons-flat-flat-icons.png" alt="conversion"/>
+<br/>
+<strong>+40%</strong>
+<br/>
+<sub>Conversion Rate Boost</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🏗️ Flagship Projects
 
 <table>
@@ -210,27 +250,10 @@ Production RAG system at Brain Gen Technology:
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<!-- OPTION A: Dynamic cards (if they load) -->
-<a href="https://github.com/Boussyf0">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boussyf0&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&ring_color=00D4AA" height="170" alt="GitHub Stats"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/Boussyf0">
-  <img src="https://streak-stats.demolab.com?user=Boussyf0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6446&currStreakLabel=00D4AA&sideLabels=C9D1D9&dates=555555" height="170" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Boussyf0">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussyf0&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<!-- ACTIVITY GRAPH (more reliable, always renders) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boussyf0&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6446&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
 
 </div>
