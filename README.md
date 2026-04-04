@@ -14,7 +14,7 @@
 <a href="https://boussyf0.github.io/portfol/">
   <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/abderrahim-boussyf">
+<a href="https://www.linkedin.com/in/abderrahim-boussyf-167539175/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="mailto:Boussyf0@gmail.com">
@@ -210,26 +210,28 @@ Production RAG system at Brain Gen Technology:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Boussyf0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Boussyf0&show_icons=true&hide_border=true&title_color=00D4AA&icon_color=00D4AA" height="170" alt="GitHub Stats"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Boussyf0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6446&currStreakLabel=00D4AA" />
-  <img src="https://streak-stats.demolab.com?user=Boussyf0&hide_border=true&ring=00D4AA&fire=FF6446&currStreakLabel=00D4AA" height="170" alt="GitHub Streak"/>
-</picture>
+<!-- OPTION A: Dynamic cards (if they load) -->
+<a href="https://github.com/Boussyf0">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boussyf0&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=C9D1D9&ring_color=00D4AA" height="170" alt="GitHub Stats"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Boussyf0">
+  <img src="https://streak-stats.demolab.com?user=Boussyf0&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6446&currStreakLabel=00D4AA&sideLabels=C9D1D9&dates=555555" height="170" alt="GitHub Streak"/>
+</a>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussyf0&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussyf0&layout=compact&hide_border=true&title_color=00D4AA&langs_count=8" height="170" alt="Top Languages"/>
-</picture>
+<a href="https://github.com/Boussyf0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boussyf0&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<!-- ACTIVITY GRAPH (more reliable, always renders) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boussyf0&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6446&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -279,7 +281,7 @@ I'm actively looking for **ML Engineer / Data Scientist** roles where I can buil
 <a href="mailto:Boussyf0@gmail.com">
   <img src="https://img.shields.io/badge/Boussyf0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/abderrahim-boussyf">
+<a href="https://www.linkedin.com/in/abderrahim-boussyf-167539175/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://boussyf0.github.io/portfol/">
