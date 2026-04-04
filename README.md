@@ -66,39 +66,12 @@ class AbderrahimBoussyf:
 ## 📊 Impact in Numbers
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-accuracy-achievements-flaticons-flat-flat-icons.png" alt="accuracy"/>
-<br/>
-<strong>90.4%</strong>
-<br/>
-<sub>AI Platform Accuracy</sub>
-</td>
-<td align="center" width="25%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-cost-reduction-flaticons-flat-flat-icons.png" alt="cost"/>
-<br/>
-<strong>-60%</strong>
-<br/>
-<sub>Customer Acquisition Cost</sub>
-</td>
-<td align="center" width="25%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-target-flaticons-flat-flat-icons.png" alt="leads"/>
-<br/>
-<strong>+50%</strong>
-<br/>
-<strong></strong>
-<sub>Lead Qualification Rate</sub>
-</td>
-<td align="center" width="25%">
-<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-conversion-flaticons-flat-flat-icons.png" alt="conversion"/>
-<br/>
-<strong>+40%</strong>
-<br/>
-<sub>Conversion Rate Boost</sub>
-</td>
-</tr>
-</table>
+
+<img src="https://img.shields.io/badge/AI_Platform_Accuracy-90.4%25-00D4AA?style=for-the-badge&labelColor=0D1117" alt="90.4% Accuracy"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Customer_Acquisition_Cost-▼_60%25-FF6446?style=for-the-badge&labelColor=0D1117" alt="-60% CAC"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Lead_Qualification-▲_50%25-00D4AA?style=for-the-badge&labelColor=0D1117" alt="+50% Leads"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Conversion_Rate-▲_40%25-00D4AA?style=for-the-badge&labelColor=0D1117" alt="+40% Conversion"/>
+
 </div>
 
 ---
