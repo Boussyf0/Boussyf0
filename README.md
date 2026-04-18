@@ -59,13 +59,28 @@
 **Problem:** Manual lead qualification slows sales pipelines and lowers conversion quality.  
 **Contribution:** Built a RAG conversational stack (Laravel + FastAPI + Groq + ChromaDB + Redis) with analytics and monitoring.  
 **Result:** Production-oriented lead qualification assistant with measurable business analytics flow.  
-**Links:** [Repository](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3)
+**Links:** [Repository](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3) · [Platform demo](https://drive.google.com/file/d/1Dyv4Wf8201M_AeldMLXls4j61r7ocGHg/view?usp=sharing) · [RAG + Agentforce demo](https://drive.google.com/file/d/1YNzddYCoV093Wuz3dlK04diqqdXmL83s/view?usp=sharing)
+
+###  AeroIntelliCAD
+**Problem:** Aerospace design workflows are slow to iterate and expensive to optimize.  
+**Contribution:** Built an AI-powered design platform concept combining CAD interaction, simulation support, and assistant workflows.  
+**Result:** Structured architecture and interactive demo to present applied AI for engineering design acceleration.  
+**Links:** [Demo video](https://drive.google.com/file/d/1xSgwdjD5R3pXfwRirzv_J55RPIQYFStm/view?usp=sharing)
 
 ###  Energy Analysis
 **Problem:** Limited visibility into technical losses in electrical grid operations.  
 **Contribution:** Produced notebook-driven analysis pipeline for technical-loss insights.  
 **Result:** Reproducible analysis artifacts for decision support.  
 **Links:** [Repository](https://github.com/Boussyf0/energy-analysis)
+
+---
+
+##  Project demo videos
+
+- AeroIntelliCAD: [Watch demo](https://drive.google.com/file/d/1xSgwdjD5R3pXfwRirzv_J55RPIQYFStm/view?usp=sharing)
+- MANTIS: [Watch demo](https://drive.google.com/file/d/1o17nF4a2F8LqnJhsFRM_v_is22M92TIK/view?usp=sharing)
+- Brain Technology Platform: [Watch demo](https://drive.google.com/file/d/1Dyv4Wf8201M_AeldMLXls4j61r7ocGHg/view?usp=sharing)
+- Brain RAG + Agentforce: [Watch demo](https://drive.google.com/file/d/1YNzddYCoV093Wuz3dlK04diqqdXmL83s/view?usp=sharing)
 
 ---
 
