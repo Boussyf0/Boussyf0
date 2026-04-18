@@ -1,16 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D4AA&height=220&section=header&text=Abderrahim%20Boussyf&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20Systems%20That%20Think,%20Learn%20and%20Deliver&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D4AA&height=220&section=header&text=Abderrahim%20Boussyf&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Applied%20AI%20%7C%20MLOps&descSize=16&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&repeat=true&width=700&height=40&lines=ML+Engineer+%7C+Data+Scientist+%7C+RAG+Architect" alt="Typing SVG" /></a>
-<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=true&width=700&height=35&lines=From+Process+Engineering+to+AI+--+A+Unique+Journey" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- QUICK LINKS -->
 <a href="https://boussyf0.github.io/portfol/">
   <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>&nbsp;
@@ -24,268 +15,109 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Boussyf0&style=for-the-badge&color=00D4AA&label=PROFILE+VIEWS"/>
-
 </div>
 
 ---
 
-## 🧬 Who Am I?
+## 🚀 Hire me in 15 seconds
 
-```python
-class AbderrahimBoussyf:
-    """Not your typical CS student — I took the scenic route through chemistry first."""
-    
-    def __init__(self):
-        self.role       = "ML Engineer & Data Scientist"
-        self.location   = "Marrakech, Morocco"
-        self.education  = ["Computer Engineering @ EMSI", "Process Engineering @ ENSA Safi"]
-        self.superpower = "Bridging industrial engineering thinking with AI systems"
-        
-    def current_mission(self):
-        return {
-            "building": "ClinAlert AI — HealthTech platform with RAG triage + IoT anomaly detection",
-            "exploring": "Multi-Agent Systems & Agentic AI",
-            "goal": "Ship AI that saves lives, not just predicts clicks"
-        }
-    
-    def past_impact(self):
-        return {
-            "60%": "Customer Acquisition Cost reduced via RAG chatbot",
-            "90.4%": "Accuracy on conversational AI platform",
-            "50%": "Lead qualification improvement through ML scoring",
-            "30%": "Reporting time cut on electrical grid analysis"
-        }
-```
+- **Target role:** ML Engineer / Applied AI Engineer / MLOps Engineer  
+- **Location:** Marrakech, Morocco (**Remote / Hybrid / On-site**)  
+- **Current focus:** RAG systems, production ML, AI observability, safety-by-design  
+- **Availability:** Open to internships and full-time opportunities  
+- **Strength:** I ship end-to-end AI systems from modeling to production APIs and monitoring  
 
 ---
 
-## 📊 Impact in Numbers
+## 📊 Evidence-first impact
 
-<div align="center">
+| Impact | Result | Proof |
+|---|---:|---|
+| Industrial predictive maintenance platform | **100k+ sensor events/sec**, **487ms P99** streaming latency | [MANTIS README](https://github.com/Boussyf0/MANTIS-Maintenance-Intelligence-System-) |
+| Lead qualification RAG assistant | **LLM responses < 1 second** in production architecture | [Brain Technology V3](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3) |
+| Power grid analytics contribution | Technical-loss analysis notebooks delivered for reporting workflow | [energy-analysis](https://github.com/Boussyf0/energy-analysis) |
 
-<img src="https://img.shields.io/badge/AI_Platform_Accuracy-90.4%25-00D4AA?style=for-the-badge&labelColor=0D1117" alt="90.4% Accuracy"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Customer_Acquisition_Cost-▼_60%25-FF6446?style=for-the-badge&labelColor=0D1117" alt="-60% CAC"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Lead_Qualification-▲_50%25-00D4AA?style=for-the-badge&labelColor=0D1117" alt="+50% Leads"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Conversion_Rate-▲_40%25-00D4AA?style=for-the-badge&labelColor=0D1117" alt="+40% Conversion"/>
-
-</div>
-
----
-
-## 🏗️ Flagship Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 ClinAlert AI
-**Cognitive HealthTech Platform**
-
-A full-stack clinical intelligence system combining:
-- 🧠 **RAG Triage** — Mistral 7B + medical knowledge base
-- 📡 **IoT Anomaly Detection** — LSTM on patient vitals
-- 📊 **No-Show Prediction** — XGBoost with feature engineering
-- ☁️ **Salesforce Health Cloud** CRM integration
-- 🔄 **MLOps** — Docker, MLflow, Airflow, CI/CD
-
-`48 User Stories` · `6 Epics` · `8 Sprints` · `Full Agile lifecycle`
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ AeroIntelliCAD
-**AI-Powered Aerospace Design Platform**
-
-Intelligent CAD for aerospace targeting $10B+ annual losses:
-- 🎨 **3D Visualization** — Three.js engine
-- 🤖 **AI Design Assistant** — PyTorch/TensorFlow
-- 🌊 **CFD Simulation** — OpenFOAM integration
-- 🔍 **Vector Search** — Qdrant knowledge base
-- ⚡ **Real-time API** — FastAPI + Groq/Llama 3.2
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 MANTIS
-**Predictive Maintenance for Smart Factories**
-
-End-to-end IIoT predictive maintenance on NASA C-MAPSS:
-- ⚙️ **RUL Prediction** — LSTM/GRU deep learning
-- 🔎 **Anomaly Detection** — Isolation Forest + Random Forest
-- 📨 **Streaming** — Kafka + MQTT/OPC UA ingestion
-- 🗄️ **Time-Series DB** — TimescaleDB
-- 📈 **Monitoring** — Prometheus + Grafana
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 RAG Conversational AI
-**Intelligent Lead Qualification Platform**
-
-Production RAG system at Brain Gen Technology:
-- 🗂️ **Vector Store** — ChromaDB embeddings
-- 🦙 **LLM Backend** — Groq Llama-3.1
-- 🎯 **ML Lead Scoring** — 90.4% accuracy
-- 📉 **Results** — -60% CAC, +50% lead qual, +40% conversion
-
-*Built and deployed in production in 3 months*
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+> I removed unverifiable percentages from this profile and kept metrics with public evidence links.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🏗️ Flagship projects (recruiter-friendly format)
 
-<div align="center">
+### 🏥 ClinAlert AI (PFE HealthTech)
+**Problem:** Fragmented clinical triage and weak operational intelligence.  
+**Contribution:** Built a multi-module AI system design (RAG triage + anomaly detection + no-show prediction) with privacy-aware architecture and CI quality gates.  
+**Result:** Complete product blueprint and implementation track ready for deployment and demo.  
+**Links:** Demo/architecture package available on request (private academic project).
 
-**Core Languages**
+### 🏭 MANTIS — Maintenance Intelligence System
+**Problem:** Unplanned downtime and delayed failure detection in smart factories.  
+**Contribution:** Built an event-driven predictive maintenance platform (Kafka + DL + observability stack).  
+**Result:** Documented high-throughput processing and low-latency streaming with production-grade architecture.  
+**Links:** [Repository](https://github.com/Boussyf0/MANTIS-Maintenance-Intelligence-System-) · [Project trailer](https://drive.google.com/file/d/1o17nF4a2F8LqnJhsFRM_v_is22M92TIK/view?usp=sharing)
+
+### 💬 Brain Technology RAG Platform
+**Problem:** Manual lead qualification slows sales pipelines and lowers conversion quality.  
+**Contribution:** Built a RAG conversational stack (Laravel + FastAPI + Groq + ChromaDB + Redis) with analytics and monitoring.  
+**Result:** Production-oriented lead qualification assistant with measurable business analytics flow.  
+**Links:** [Repository](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3)
+
+### ⚡ Energy Analysis
+**Problem:** Limited visibility into technical losses in electrical grid operations.  
+**Contribution:** Produced notebook-driven analysis pipeline for technical-loss insights.  
+**Result:** Reproducible analysis artifacts for decision support.  
+**Links:** [Repository](https://github.com/Boussyf0/energy-analysis)
+
+---
+
+## ✅ Production-readiness proof
+
+- **Architecture:** Event-driven and microservice-oriented systems ([MANTIS](https://github.com/Boussyf0/MANTIS-Maintenance-Intelligence-System-), [Brain V3](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3))
+- **APIs:** FastAPI/Laravel service integration for real-time workloads
+- **Observability:** Prometheus + Grafana + ML monitoring practices
+- **Deployment:** Dockerized stacks with reproducible startup and environment configs
+- **Reliability mindset:** Safety constraints, health checks, and operational runbooks
+
+---
+
+## 🛠️ Tech focus (signal > noise)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Machine Learning & AI**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**LLMs & NLP**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Systems-00D4AA?style=for-the-badge&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logoColor=white)
-
-**Data & Analytics**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-**MLOps & DevOps**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-**APIs & Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Monitoring**
-
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+---
+
+## 🔍 Recruiter keywords
+
+**Machine Learning Engineer, Applied AI Engineer, MLOps, RAG, LLMOps, FastAPI, Retrieval Systems, Vector Search, AI Safety, Monitoring, CI/CD, Production ML**
+
+---
+
+## 📈 Contribution activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boussyf0&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6446&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity"/>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📬 Let's connect
+
+I am actively looking for opportunities to build AI systems that create measurable impact.
+
+- **Email:** [Boussyf0@gmail.com](mailto:Boussyf0@gmail.com)  
+- **LinkedIn:** [abderrahim-boussyf](https://www.linkedin.com/in/abderrahim-boussyf-167539175/)  
+- **Portfolio:** [boussyf0.github.io/portfol](https://boussyf0.github.io/portfol/)  
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Boussyf0&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6446&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🎯 The Journey
-
-```
-2018 ─── CPGE Dakhla ──── Maths & Physics foundations
-  │
-2021 ─── ENSA Safi ─────── Process Engineering (Chemistry → Systems Thinking)
-  │
-2023 ─── EMSI Marrakech ── Computer Engineering (The Pivot to AI)
-  │
-2024 ─── OCP Group ─────── Industrial process optimization
-  │     L'ONEEP Dakhla ─── Data analytics for electrical grid losses (-30% reporting time)
-  │
-2025 ─── Brain Gen Tech ── RAG chatbot in production (90.4% accuracy, -60% CAC)
-  │     n.synergy ──────── ClinAlert AI — HealthTech platform (Current PFE)
-  │
-2026 ─── Next chapter ──── Your company? Let's talk. 🚀
-```
-
----
-
-## 💡 What Makes Me Different
-
-> *"I don't just build models — I build systems that ship."*
-
-Most ML engineers stop at the notebook. I go from **problem → model → API → monitoring → production**. My process engineering background taught me to think in **systems, flows, and failure modes** — which is exactly how you build reliable AI in production.
-
-**Proof:**
-- 🏥 **ClinAlert AI** — Full MLOps pipeline with automated retraining, not just a prototype
-- 💬 **Brain Gen RAG** — Deployed in production, serving real customers, measurable ROI
-- 🏭 **MANTIS** — End-to-end from sensor data to RUL prediction dashboard
-
----
-
-<div align="center">
-
-### 📬 Let's Build Something Together
-
-I'm actively looking for **ML Engineer / Data Scientist** roles where I can build AI systems that create real impact.
-
-<br/>
-
-<a href="mailto:Boussyf0@gmail.com">
-  <img src="https://img.shields.io/badge/Boussyf0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/abderrahim-boussyf-167539175/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://boussyf0.github.io/portfol/">
-  <img src="https://img.shields.io/badge/View_Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D4AA&height=100&section=footer" width="100%"/>
-
 </div>
