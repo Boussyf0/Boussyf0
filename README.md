@@ -19,17 +19,17 @@
 
 ---
 
-## 🚀 Hire me in 15 seconds
+##  Hire me in 15 seconds
 
-- **Target role:** ML Engineer / Applied AI Engineer / MLOps Engineer  
+- **Target role:** ML Engineer / Applied AI Engineer / MLOps Engineer / Data Scientist
 - **Location:** Marrakech, Morocco (**Remote / Hybrid / On-site**)  
-- **Current focus:** RAG systems, production ML, AI observability, safety-by-design  
+- **Current focus:** RAG systems, production ML, AI observability, safety-by-design, LLM, Multi Agents  
 - **Availability:** Open to internships and full-time opportunities  
 - **Strength:** I ship end-to-end AI systems from modeling to production APIs and monitoring  
 
 ---
 
-## 📊 Evidence-first impact
+##  Evidence-first impact
 
 | Impact | Result | Proof |
 |---|---:|---|
@@ -41,27 +41,27 @@
 
 ---
 
-## 🏗️ Flagship projects (recruiter-friendly format)
+##  Flagship projects (recruiter-friendly format)
 
-### 🏥 ClinAlert AI (PFE HealthTech)
+###  MediSense AI (PFE HealthTech)
 **Problem:** Fragmented clinical triage and weak operational intelligence.  
 **Contribution:** Built a multi-module AI system design (RAG triage + anomaly detection + no-show prediction) with privacy-aware architecture and CI quality gates.  
 **Result:** Complete product blueprint and implementation track ready for deployment and demo.  
 **Links:** Demo/architecture package available on request (private academic project).
 
-### 🏭 MANTIS — Maintenance Intelligence System
+###  MANTIS — Maintenance Intelligence System
 **Problem:** Unplanned downtime and delayed failure detection in smart factories.  
 **Contribution:** Built an event-driven predictive maintenance platform (Kafka + DL + observability stack).  
 **Result:** Documented high-throughput processing and low-latency streaming with production-grade architecture.  
 **Links:** [Repository](https://github.com/Boussyf0/MANTIS-Maintenance-Intelligence-System-) · [Project trailer](https://drive.google.com/file/d/1o17nF4a2F8LqnJhsFRM_v_is22M92TIK/view?usp=sharing)
 
-### 💬 Brain Technology RAG Platform
+###  Brain Technology RAG Platform
 **Problem:** Manual lead qualification slows sales pipelines and lowers conversion quality.  
 **Contribution:** Built a RAG conversational stack (Laravel + FastAPI + Groq + ChromaDB + Redis) with analytics and monitoring.  
 **Result:** Production-oriented lead qualification assistant with measurable business analytics flow.  
 **Links:** [Repository](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3)
 
-### ⚡ Energy Analysis
+###  Energy Analysis
 **Problem:** Limited visibility into technical losses in electrical grid operations.  
 **Contribution:** Produced notebook-driven analysis pipeline for technical-loss insights.  
 **Result:** Reproducible analysis artifacts for decision support.  
@@ -69,7 +69,7 @@
 
 ---
 
-## ✅ Production-readiness proof
+##  Production-readiness proof
 
 - **Architecture:** Event-driven and microservice-oriented systems ([MANTIS](https://github.com/Boussyf0/MANTIS-Maintenance-Intelligence-System-), [Brain V3](https://github.com/Boussyf0/BRAIN-TECHNOLOGY-V3))
 - **APIs:** FastAPI/Laravel service integration for real-time workloads
@@ -79,7 +79,7 @@
 
 ---
 
-## 🛠️ Tech focus (signal > noise)
+##  Tech focus (signal > noise)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -96,13 +96,13 @@
 
 ---
 
-## 🔍 Recruiter keywords
+##  Recruiter keywords
 
 **Machine Learning Engineer, Applied AI Engineer, MLOps, RAG, LLMOps, FastAPI, Retrieval Systems, Vector Search, AI Safety, Monitoring, CI/CD, Production ML**
 
 ---
 
-## 📈 Contribution activity
+##  Contribution activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boussyf0&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6446&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Contribution Activity"/>
@@ -110,7 +110,7 @@
 
 ---
 
-## 📬 Let's connect
+##  Let's connect
 
 I am actively looking for opportunities to build AI systems that create measurable impact.
 
